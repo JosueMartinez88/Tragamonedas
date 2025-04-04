@@ -1,4 +1,5 @@
 ¿Qué es este programa?
+
 Este programa es una sencilla simulación de una maquina tragamonedas o tragaperras de un casino, mencionamos que es sencilla ya que esta cuenta solo con la función girar y el como
 se van recorriendo las imágenes, por lo que no cuenta con funciones como ingresar dinero, ganancias, dinero actual, etc. Solo es como una simulación de la función del tragamonedas
 
