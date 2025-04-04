@@ -25,6 +25,8 @@ Si te encuentras aquí probablemente sea porque no sepas como integrarlo, aqui e
 7. Por el momento tendria que quedar asi: "C:\Users\jjvsj\OneDrive\Documentos\NetBeansProjects\Tragamonedas\src\main\java\Tragamonedas\com\app\imagenes\"
 8. Ahora vas a ver los slash inversos (\), lo que harás a continuación va a ser cambiarlos por (/)
 9. Ahora deberia de verse así:
-    antes: "C:\Users\jjvsj\OneDrive\Documentos\NetBeansProjects\Tragamonedas\src\main\java\Tragamonedas\com\app\imagenes\"
-    después: "C:/Users/jjvsj/OneDrive/Documentos/NetBeansProjects/Tragamonedas/src/main/java/Tragamonedas/com/app/imagenes/"
-10. Una vez hecho esto ya podras ir al paso 5, ¡Bien hecho!
+
+   antes: "C:\Users\jjvsj\OneDrive\Documentos\NetBeansProjects\Tragamonedas\src\main\java\Tragamonedas\com\app\imagenes\"
+
+   después: "C:/Users/jjvsj/OneDrive/Documentos/NetBeansProjects/Tragamonedas/src/main/java/Tragamonedas/com/app/imagenes/"
+11. Una vez hecho esto ya podras ir al paso 5, ¡Bien hecho!
