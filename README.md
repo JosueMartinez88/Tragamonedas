@@ -23,7 +23,7 @@ Si te encuentras aquí probablemente sea porque no sepas como integrarlo, aqui e
 5. Vas a pegar tu ruta. Ejemplo "C:\Users\jjvsj\OneDrive\Documentos\NetBeansProjects\Tragamonedas\src\main\java\Tragamonedas\com\app\imagenes\Bar.jpg"
 6. Vas a borrar la parte "Bar.jpg" ya que esta ya estará concatenada (se verá que dice:   +simbolos[i]+".jpg"
 7. Por el momento tendria que quedar asi: "C:\Users\jjvsj\OneDrive\Documentos\NetBeansProjects\Tragamonedas\src\main\java\Tragamonedas\com\app\imagenes\"
-8. Ahora vas a ver los slash inversos ("\"), lo que harás a continuación va a ser cambiarlos por (/)
+8. Ahora vas a ver los slash inversos (\), lo que harás a continuación va a ser cambiarlos por (/)
 9. Ahora deberia de verse así:
     antes: "C:\Users\jjvsj\OneDrive\Documentos\NetBeansProjects\Tragamonedas\src\main\java\Tragamonedas\com\app\imagenes\"
     después: "C:/Users/jjvsj/OneDrive/Documentos/NetBeansProjects/Tragamonedas/src/main/java/Tragamonedas/com/app/imagenes/"
