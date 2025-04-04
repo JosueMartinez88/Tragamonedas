@@ -13,6 +13,7 @@ Instrucciones de Uso
 5. Una vez que hayas hecho todo esto vas a poder usarla como si fuera tuya, ¡Felicidades!
 
 Seguimiento del paso 4
+
 Si te encuentras aquí probablemente sea porque no sepas como integrarlo, aqui estan los pasos:
 1. Cuando ya tengas descargado todo vas a ir dentro del archivo a la parte llamada "imagenes"
 2. Tendrás que seleccionar una imagen y le vas a dar click derecho
