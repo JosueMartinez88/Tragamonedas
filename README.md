@@ -8,7 +8,7 @@ Instrucciones de Uso
 2. Primero debes de entrar a donde dice com/app y tendras 2 opciones, imagenes o mvc, en imagenes vas a encontrar los simbolos ocupados para el tragamonedas, mientras que en mvc vas
    a encontrar las clases de modelo que tiene la lógica, visión que tiene la interfaz y controlador la cual gestiona la interacción del usuario y actua en base a esta y ejecutar
    que simplemente es la clase main para ejecutarlo
-3. Vas a descargarlo en .zip y lo vas a implementar en tu proyecto que quieras ocuparlo pegando todo a las clases junto con paquetes
+3. Vas a descargarlo todo en .zip y (desde la parte principal) lo vas a implementar en tu proyecto que quieras ocuparlo pegando todo a las clases junto con paquetes
 4. Vas a entrar a la clase llamada "Modelo" que se encuentra en el paquete Modelo, y vas a buscar el método llamado "agregar_imagenes" y en vez de la ruta puesta lo que vas a ingresar
    va ser la ruta TUYA en donde se encuentran las imagenes, solo es cambiar de ruta (si deseas mas información mira la parte "Seguimiento del paso 4" que se encuentra en otro apartado.
 5. Una vez que hayas hecho todo esto vas a poder usarla como si fuera tuya, ¡Felicidades!
